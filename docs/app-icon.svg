@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="432" viewBox="0 0 108 108">
+  <title>声学工具箱应用图标</title>
+  <defs><clipPath id="shape"><rect width="108" height="108" rx="24"/></clipPath></defs>
+  <g clip-path="url(#shape)">
+    <path fill="#12363F" d="M0 0h108v108H0z"/>
+    <path fill="#184B55" d="M0 0h108v18L0 96z"/>
+    <path fill="none" stroke="#67D7D4" stroke-width="1.7" stroke-linecap="round" d="M78 39a29 29 0 1 1-11-11"/>
+    <path fill="none" stroke="#E5FAF6" stroke-width="4.2" stroke-linecap="round" d="M34 51v6m8-12v18m8-26v34m8-28v22m8-17v12m8-8v4"/>
+    <circle fill="#F3AB84" cx="74" cy="32" r="3"/>
+  </g>
+</svg>
